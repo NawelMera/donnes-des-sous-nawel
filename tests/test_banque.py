@@ -1,4 +1,4 @@
-from donnes_des_sous.banque import donnes_des_sous
+from donnes_des_sous_nawel.banque import donnes_des_sous
 
 
 def test_donne_des_sous():
