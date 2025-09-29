@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+donnes_des_sous_nawel.egg-info/PKG-INFO
+donnes_des_sous_nawel.egg-info/SOURCES.txt
+donnes_des_sous_nawel.egg-info/dependency_links.txt
+donnes_des_sous_nawel.egg-info/top_level.txt
+donnes_des_sous_nawel/src/donnes_des_sous_nawel/__init__.py
+donnes_des_sous_nawel/src/donnes_des_sous_nawel/banque.py
+donnes_des_sous_nawel/src/tests/test_banque.py
